@@ -1,5 +1,5 @@
 # 💻Full Stack Developer
-#### Hii.. I am *Rohit Sahu* an Passionate Full Stack / MERN Stack Developer from India...  
+### Hii I am <b>Rohit Sahu</b> an Passionate Full Stack Web Developer from India...  
 
 - 🔭 I’m currently working on React JS...
 - 🌱 I’m currently learning New Things and Technology Around the world ...
@@ -15,7 +15,7 @@
    - EXPRESSJS
    - REACTJS
    - MONGODB
-   
+   <br>
    <details>
   <summary>💪Internship's</summary>
   <ul>
@@ -26,9 +26,9 @@
 <details>
   <summary>🏅🥇Certifications</summary>
     <ul>
-      <li>🥇 <b>JavaScript</b> from <b>LearnVern</b>
-      <li>🥇 <b> Portfolio Website using HTML and CSS </b> from<b>Coursera</b> </li>
-      <li>🥇 <b> Fundamentals of Web Development With JavaScript</b> <b>Edx- University of Penn</b></li>
+      <li> <b>JavaScript</b> from <b>LearnVern</b>
+      <li> <b> Portfolio Website using HTML and CSS </b> from<b>Coursera</b> </li>
+      <li> <b> Fundamentals of Web Development With JavaScript</b> <b>Edx- University of Penn</b></li>
    </ul>
   
 </details>
