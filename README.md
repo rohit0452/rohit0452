@@ -15,6 +15,9 @@
    - EXPRESSJS
    - REACTJS
    - MONGODB
+   - ANGULAR
+   - ANGULARJS
+     
    <br>
    <details>
   <summary>💪Internship's</summary>
